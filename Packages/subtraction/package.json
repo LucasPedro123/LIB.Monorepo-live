@@ -5,7 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Lucas Pedro Fernandes",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "gitHead": "e1ef5bb3082ba4674b76aa770a60c477da3b2aee"
 }
