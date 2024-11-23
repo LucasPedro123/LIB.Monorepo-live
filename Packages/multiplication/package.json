@@ -1,5 +1,5 @@
 {
-  "name": "multiplication-project-lucas",
+  "name": "@monorepo-live-lucasp/multiplication",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
