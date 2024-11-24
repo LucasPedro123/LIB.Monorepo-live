@@ -1,6 +1,6 @@
 {
   "name": "monorepo-live-lucasp",
-  "private": "false",
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
