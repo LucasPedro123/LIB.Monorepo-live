@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-live-lucasp/subtraction",
+  "name": "monorepo-live-lucasp-subtraction",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
