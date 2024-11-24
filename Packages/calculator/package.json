@@ -1,5 +1,5 @@
 {
-  "name": "@my-scope/calculator",
+  "name": "@monorepo-live-lucasp/calculator",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "gitHead": "ace50b31a1a104fafc5c2929fc4f9812441c9380"
+  "gitHead": "9667cc27e9ff931224a4fe32d8ba1e025212e9f7"
 }
