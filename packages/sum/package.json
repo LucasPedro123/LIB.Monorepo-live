@@ -1,16 +1,15 @@
 {
-  "name": "monorepo-live-lucasp-calculator",
+  "name": "monorepo-live-lucasp-sum",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "author": "Lucas Pedro Fernandes",
+  "license": "ISC",
   "publishConfig": {
     "access": "public"
   },
-  "author": "",
-  "license": "ISC",
   "description": "",
   "gitHead": "909fccbc9ba6c4ff4bc543c87f0a3f3e7a7cdb87"
 }
